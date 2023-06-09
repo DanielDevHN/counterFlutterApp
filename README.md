@@ -1,6 +1,6 @@
-# hello_wold_app
+# Counter App
 
-A new Flutter project.
+A basic counter flutter app.
 
 ## Getting Started
 
